@@ -33,7 +33,7 @@ Intelligence and Data Analytics has provided me a solid foundation and a good in
 <br />
 
 <img align="left" alt="tableau" width="55" src="https://github.com/magdiel100/magdiel100/blob/main/images/tableau.png" />
-<img align="left" alt="powerbi" width="55" src="https://github.com/magdiel100/magdiel100/blob/main/images/powerbi.png" />
+<img align="left" alt="PowerBI" width="25" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/PowerBI.png" />
 <img align="left" alt="Jupyter_logo" width="30" src="https://github.com/magdiel100/magdiel100/blob/main/images/Jupyter_logo.png" />
 <img align="left" alt="excel" class="center" width="30" src="https://github.com/magdiel100/magdiel100/blob/main/images/excel.png" />
 
